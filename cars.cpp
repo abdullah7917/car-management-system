@@ -1,4 +1,4 @@
-//Abdullah Ali Khan, khanab@pdx.edu, 5/8/2025, cs162-001
+//Abdullah Ali Khan, khanab@pdx.edu, 5/8/2025
 //Purpose of the code in this file
 //it will have the main fuctions
 #include "cars.h"
